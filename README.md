@@ -1,4 +1,4 @@
-# Javascript Basic Project
+# Fibonacci series
 
 A simple JavaScript program that once entered a value returns the same value in the fibonacci series.
 
